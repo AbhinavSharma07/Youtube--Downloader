@@ -1,4 +1,4 @@
-# AB YouTube Video Downloader
+## AB YouTube Video Downloader
 
 A simple YouTube video downloader GUI application built using Python's Tkinter and the Pytube library.
 
