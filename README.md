@@ -37,5 +37,5 @@ This application is meant for personal use to download YouTube videos for offlin
 ## Acknowledgements
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python's standard GUI library.
-- [Pytube](https://pytube.io/) - A lightweight, Pythonic, dependency-free library for downloading YouTube videos.
+- [Pytube](https://pytube.io/) - A lightweight, Pythonic, dependency-free library for downloading YouTube videos....
 
